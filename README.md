@@ -29,6 +29,9 @@ https://github.com/AI-books/share-my-idea-about-AI/edit/master/README.md
 ### 5.2 应用场景
 
 ## 6 深度学习的模型训练与优化
+### 6.1 有监督学习
+### 6.2 半监督学习
+### 6.3 无监督学习
 
 ## 7 移动端使用深度学习模型
 ### 7.1 移动端 AI 与 服务端 AI 的区别
